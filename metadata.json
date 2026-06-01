@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Spirit Level",
+  "description": "A professional-grade highly accurate digital spirit level application that uses sensor fusion for horizontal, vertical, and angular alignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Nivel de Burbuja</string>
+    <string name="horizontal_mode">Modo Horizontal</string>
+    <string name="vertical_mode">Modo Vertical</string>
+    <string name="angle_mode">Medidor de Ángulo</string>
+    <string name="settings">Ajustes</string>
+    <string name="calibration">Calibración</string>
+    <string name="calibrate">Calibrar a Cero</string>
+    <string name="calibrate_desc">Coloque su dispositivo en una superficie y presione calibrar para establecer un cero personalizado.</string>
+    <string name="reset_calibration">Restablecer</string>
+    <string name="calibration_success">Calibración exitosa</string>
+    <string name="calibration_reset_success">Calibración restablecida</string>
+    <string name="perfect_level">Nivel Perfecto</string>
+    <string name="near_level">Casi Nivelado</string>
+    <string name="not_level">Inclinado</string>
+    <string name="haptics_settings_title">Respuesta Háptica</string>
+    <string name="haptics_settings_desc">Vibrar al alcanzar la alineación perfecta</string>
+    <string name="audio_settings_title">Alerta Sonora</string>
+    <string name="audio_settings_desc">Emitir un pitido de sonido al alcanzar el nivel</string>
+    <string name="precision_settings_title">Precisión Avanzada</string>
+    <string name="precision_settings_desc">Mostrar dos decimales</string>
+    <string name="filter_settings_title">Suavizado de Sensor</string>
+    <string name="reset_settings">Restablecer Ajustes</string>
+    <string name="axis_x">Eje X</string>
+    <string name="axis_y">Eje Y</string>
+    <string name="axis_z">Eje Z</string>
+    <string name="deviation_max">Desv Máx</string>
+    <string name="status_aligned">ALINEADO</string>
+    <string name="status_tilted">INCLINADO</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Niveau à Bulle</string>
+    <string name="horizontal_mode">Mode Horizontal</string>
+    <string name="vertical_mode">Mode Vertical</string>
+    <string name="angle_mode">Mesure d\'Angle</string>
+    <string name="settings">Paramètres</string>
+    <string name="calibration">Calibrage</string>
+    <string name="calibrate">Calibrer Zéro</string>
+    <string name="calibrate_desc">Posez votre appareil sur une surface et appuyez sur calibrer pour définir un niveau zéro personnalisé.</string>
+    <string name="reset_calibration">Réinitialiser</string>
+    <string name="calibration_success">Calibrage réussi</string>
+    <string name="calibration_reset_success">Calibrage réinitialisé</string>
+    <string name="perfect_level">Niveau Parfait</string>
+    <string name="near_level">Proche du Niveau</string>
+    <string name="not_level">Incliné</string>
+    <string name="haptics_settings_title">Retour Haptique</string>
+    <string name="haptics_settings_desc">Vibrer lorsque l\'alignement parfait est atteint</string>
+    <string name="audio_settings_title">Alerte Sonore</string>
+    <string name="audio_settings_desc">Bip de notification lorsque l\'alignement est atteint</string>
+    <string name="precision_settings_title">Précision Avancée</string>
+    <string name="precision_settings_desc">Afficher deux decimales</string>
+    <string name="filter_settings_title">Lissage des Capteurs</string>
+    <string name="reset_settings">Réinitialiser les Ajustements</string>
+    <string name="axis_x">Axe X</string>
+    <string name="axis_y">Axe Y</string>
+    <string name="axis_z">Axe Z</string>
+    <string name="deviation_max">Écart Max</string>
+    <string name="status_aligned">ALIGNÉ</string>
+    <string name="status_tilted">INCLINÉ</string>
+</resources>

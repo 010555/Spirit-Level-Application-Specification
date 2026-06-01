@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ميزان الماء</string>
+    <string name="horizontal_mode">الوضع الأفقي</string>
+    <string name="vertical_mode">الوضع العمودي</string>
+    <string name="angle_mode">مقياس الزوايا</string>
+    <string name="settings">الإعدادات</string>
+    <string name="calibration">المعايرة</string>
+    <string name="calibrate">معايرة الصفر</string>
+    <string name="calibrate_desc">ضع جهازك على سطح مستوٍ واضغط على معايرة لضبط مستوى الصفر المخصص.</string>
+    <string name="reset_calibration">المسح</string>
+    <string name="calibration_success">تمت المعايرة بنجاح</string>
+    <string name="calibration_reset_success">تمت إعادة تعيين المعايرة</string>
+    <string name="perfect_level">مستوى تام</string>
+    <string name="near_level">قريب من المستوى</string>
+    <string name="not_level">غير مستوٍ</string>
+    <string name="haptics_settings_title">الاهتزاز</string>
+    <string name="haptics_settings_desc">الاهتزاز عند الوصول للاستواء التام</string>
+    <string name="audio_settings_title">التنبيه الصوتي</string>
+    <string name="audio_settings_desc">إصدار صوت رنين عند الوصول للاستواء</string>
+    <string name="precision_settings_title">الدقة المتقدمة</string>
+    <string name="precision_settings_desc">إظهار منزلتين عشريتين</string>
+    <string name="filter_settings_title">تنعيم حركة المستشعر</string>
+    <string name="reset_settings">إعادة ضبط الإعدادات</string>
+    <string name="axis_x">محور X</string>
+    <string name="axis_y">محور Y</string>
+    <string name="axis_z">محور Z</string>
+    <string name="deviation_max">أقصى انحراف</string>
+    <string name="status_aligned">متطابق</string>
+    <string name="status_tilted">مائل</string>
+</resources>

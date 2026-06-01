@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Wasserwaage</string>
+    <string name="horizontal_mode">Horizontaler Modus</string>
+    <string name="vertical_mode">Vertikaler Modus</string>
+    <string name="angle_mode">Winkelmesser</string>
+    <string name="settings">Einstellungen</string>
+    <string name="calibration">Kalibrierung</string>
+    <string name="calibrate">Nullpunkt kalibrieren</string>
+    <string name="calibrate_desc">Legen Sie Ihr Gerät auf eine Fläche und drücken Sie Kalibrieren, um einen benutzerdefinierten Nullpunkt festzulegen.</string>
+    <string name="reset_calibration">Zurücksetzen</string>
+    <string name="calibration_success">Kalibrierung erfolgreich</string>
+    <string name="calibration_reset_success">Kalibrierung zurückgesetzt</string>
+    <string name="perfect_level">Perfekt Eben</string>
+    <string name="near_level">Nahezu Eben</string>
+    <string name="not_level">Geneigt</string>
+    <string name="haptics_settings_title">Haptisches Feedback</string>
+    <string name="haptics_settings_desc">Vibrieren, wenn eine perfekte Ausrichtung erreicht ist</string>
+    <string name="audio_settings_title">Tonausgabe</string>
+    <string name="audio_settings_desc">Signalton abspielen, wenn Ausrichtung erreicht ist</string>
+    <string name="precision_settings_title">Erweiterte Präzision</string>
+    <string name="precision_settings_desc">Zwei Dezimalstellen anzeigen</string>
+    <string name="filter_settings_title">Sensor-Dämpfung</string>
+    <string name="reset_settings">Einstellungen zurücksetzen</string>
+    <string name="axis_x">X-Achse</string>
+    <string name="axis_y">Y-Achse</string>
+    <string name="axis_z">Z-Achse</string>
+    <string name="deviation_max">Max. Abw.</string>
+    <string name="status_aligned">AUSGERICHTET</string>
+    <string name="status_tilted">GENEIGT</string>
+</resources>
